@@ -6,6 +6,11 @@ package com.mycompany.app;
  */
 public class App 
 {
+
+    /** La description du code
+     * Ici en javadoc
+     * @param args les arguments
+     * */
     public static void main( String[] args )
     {
         String aArgument = args[0];
